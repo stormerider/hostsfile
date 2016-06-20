@@ -20,4 +20,4 @@
 #
 
 default['hostsfile']['path'] = nil
-default['hostsfile']['atomic'] = true
+default['hostsfile']['atomic'] = false
